@@ -1,2 +1,2 @@
-# Minimap
- Adding a minimap https://esdunlap.github.io/Minimap/
+# Heroborn-Lit-UP
+ Adding a new UI and lighting
